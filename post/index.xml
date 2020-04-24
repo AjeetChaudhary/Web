@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Ajeet Chaudhary</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/aj.jpeg</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>Netflix is cutting down on your favourite movies</title>
+      <link>/post/writing-technical-content/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;&lt;em&gt;“I need to stop”
+I whispered to myself, As I clicked on next episode.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Above quote explains 2 AM conversation of every Netflix user.
+As Netflix is focusing more on original content now, number of TV shows is increasing and number of movies is decreasing with years passing. Netflix has approximately 1100 original TV shows currently. One of the prominent reason behind this original content is companies removing their content to support own streaming services.
+Following graph shows year-wise change in addition of Movies and TV shows on the platform. We are showing comparison starting from 2006 and till 2019.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/yearwise.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Netflix is losing movies as a result in 2019 number of TV shows surpassed number of movies.
+For better understanding refer figure 2, here we are showing Netflix&amp;rsquo;s pattern of uploading content. Red line is representing movies and blue line is representing TV shows.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/Rplot.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The number of uploaded content increased steeply after 2016 and increasing very sharply for both movies and TV shows.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/country.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;United states is highest contributor for movies and TV shows followed by UK. India is lacking behind in case of TV shows. Figure 3 is displaying top 9 countries contributing movies and TV shows respectively.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/Rplot04.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Mature rated content is highest followed by 14+ and parental guidance. These numbers can easily explain demographics of Netflix users. Paying Netflix users generally belong to 18+ age group, who likes to sit after work for “Netflix and Chill”.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/Duration.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Figure 5 is displaying dominant duration of available content and its ratings. One season has highest count.
+Thank you so much for your valuable time and hope you liked this Article.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Netflix data-set from Kaggle is used for this analysis.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shiny App for Churn Modelling in a bank </title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/getting-started/</guid>
+      <description>&lt;p&gt;This shiny app is live example of churn prediction in a bank. We used bank data from kaggle to write our algorithm&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://akc1996.shinyapps.io/churning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;App Link&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why does early startups fail.</title>
+      <link>/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/jupyter/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/post/images.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;i-am-associated-with-early-stage-startups-for-more-than-2-years-now-we-are-all-aware-that-90-percent-of-startups-fail-in-this-article-we-are-going-to-look-at-some-of-main-reasons-of-failures&#34;&gt;I am associated with early stage startups for more than 2 years now. We are all aware that 90 percent of startups fail. In this article we are going to look at some of main reasons of failures:&lt;/h5&gt;
+&lt;p&gt;1.&lt;strong&gt;Not solving a problem&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/problem.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Your business should be your passion,do not do a startup just for sake of it. Find a big problem you               are solving. Big problem for a founder personally may not be a problem for the community. Market                   research in target market is best possible solution for this problem. Launch first product as soon as                       possible for product market fit.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Too many founders think that their idea is so brilliant that their best course of action is to build the product,   show it to the world, and wait for the money to roll in. However, that common delusion is a major startup killer.   In reality, people are reluctant to try a startup&amp;rsquo;s product, because most of them fail. So they will only try the   product if it promises to solve a painful problem that nobody is trying to solve.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2.&lt;strong&gt;Good idea but luxury for the market&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/luxury.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Life’s too short to build something nobody wants. “- Ash Maurya*&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;There are chances,startup is solving a important problem but its a luxury for community.This leads to              hardship in monetization.Generally User spend money on basic needs. Either build a product for mass community      fulfilling their basic needs or a luxury product for premium customers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Some companies launch products before their time and either the market (demand/need) or the technology is not      there yet. Others launch too late, although they might not notice that it would be too late already. The key       factor here is to always question yourself with competitors benchmark and with common sense when sales are not     taking off.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;3.&lt;strong&gt;Ran out of Money&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/money.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Founders invest either their savings or family and friend&amp;rsquo;s money to start their dream project. Normally this      money last for 1 year. Funding is solution for cash problem in most cases,revenue is a solution in very rare       cases.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A key job of the CEO is to understand how much cash is left and whether that will carry the company to a           milestone that can lead to a successful financing, or to cash flow positive.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;People may always be surprised by the time and number of rejections required before they succeed in raising        capital for their startup. Too often this process is started too late and the entrepreneur goes to the rescue      with   the wrong group of investors – the first ones. Fundraising in a startup environment is something that       needs at least 6 months of active prospection, meetings, calls and visits.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;4.&lt;strong&gt;Talent leaving the job&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/leaving.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;For better opportunities&lt;/strong&gt; 
+Loyalty is very rare in 21st century,employees normally spend a huge amount of money on their                      graduation and try to cover this money as soon as possible. So, they leave current job for better                  opportunities leaving current founder searching for replacement.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Scared of job unstability&lt;/strong&gt;
+Early stage startup can close anytime in the lack of capital,Employee&amp;rsquo;s awareness keep them                        distressed about job stability,making them keep searching for other opportunities.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cant match up with startup work cultures&lt;/strong&gt; 
+Startups do not work 9-5 like MNC&amp;rsquo;s and government offices. Extra effort to show presence in the                   market and lack of employees due to low initial capital are main reasons. Sacrificing personal life                for startup is not everyone&amp;rsquo;s cup of tea.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cant be a Jack of all trades&lt;/strong&gt; 
+PHP developer can be seen doing business and HR calls in a startup after his working hours. You have                to help every deparment in  a early stage startup.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Family pressure to join more secure job&lt;/strong&gt; 
+Every family wish their child doing a well stable job. Early stage is defition of unstability. 95%                 startups fail in first 18 months, So families keep on pressurizing their young one to join more secure             job.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;4.&lt;strong&gt;Competition with big MNC&amp;rsquo;s&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/competition.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you are competing with big fishes in the market, you have to be excellent with your services and on point       with your strategies, marigin for error is very small. Capital investor&amp;rsquo;s hand on your head or good working        background are very helpful in growing business despite of high level competition.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;5.&lt;strong&gt;Distrust in users for new product&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/distrust.jpg&#34; alt=&#34;&#34;&gt;{width=150%}&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Why should i leave my current product and use yours? Your product should standout in some way with great           marketing to beat already existing product.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;6.&lt;strong&gt;User unfriendly product&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/unfriendly.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;According to a survey 17% startups fail in the lack of user friendly product.Most of the time the first product    that a startup brings to market won’t meet the market need. In the best cases, it will take a few revisions to     get the product/market fit right.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;CONCLUSION&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“All I Want To Know Is Where I’m Going To Die So I’ll Never Go There. “-Charlie Munger&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;These were some of potential reasons of startup failures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Follow a systematic process of planning,committing,tracking results,raising necessary capital to run the company   and last not the least keep hustling for your dreams.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thank You&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A shiny App to show all IPL stats with filters</title>
+      <link>/post/a-shiny-app-to-show-all-ipl-stats-with-filters/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/post/a-shiny-app-to-show-all-ipl-stats-with-filters/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/post/Indian.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IPL season is around. As a fan we show keen interest in checking different stats to water our curosity. I have created this shiny application by scrapping IPLT20 website.So this is a live application.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Go and check stats now:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://akc1996.shinyapps.io/IPL2008-2017/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;App Link&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
